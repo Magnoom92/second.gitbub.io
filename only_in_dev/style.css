@@ -1,0 +1,10 @@
+/* Feature only availlable in feature branch */
+.potato{
+    color: magenta;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+ .feature {
+     font-size: 4rem;
+ }
