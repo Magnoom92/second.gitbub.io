@@ -1,0 +1,22 @@
+body
+{ 
+ margin: 0; 
+}
+header{ 
+    background-color: orangered;
+    text-align: center;
+
+}
+
+header img
+{ 
+    border-radius: 150px;
+    width: 300px;
+    border: 20px solid purple;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+header h1{ 
+    font-family: sans-serif;
+    color: powderblue;}
