@@ -1,6 +1,7 @@
 body
 { 
  margin: 0; 
+ font-size: 30px;
 }
 header{ 
     background-color: orangered;
@@ -20,3 +21,20 @@ header img
 header h1{ 
     font-family: sans-serif;
     color: powderblue;}
+
+    main
+    {
+        font-family: sans-serif;
+        text-align: center;
+    }
+
+    h2
+    {
+        font-size: 60px;
+    }
+    p{font-size: 30px;}
+    footer{ font-size: 15px;}
+
+    a:hover{ color: white;
+    background-color: thistle;
+    }
